@@ -1,0 +1,44 @@
+WEBSITE AND TODO LIST ON WEBSITE <(*IN PROGRESS*)
+
+CREATE CHESS IN C++
+RAYTRACING (WILL BE DONE IN MY GRAPHICS CLASS!)
+VOICE ASSISTANT IN PYTHON WITH CHAT GPT API (https://www.geeksforgeeks.org/voice-assistant-using-python/)
+VIDEO SUBTITLE GENERATOR
+CREATE SUDOKU SOLVER WITH THREADING?
+TEXT EDITOR WITH BASIC AUTOCORRECT? (https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table)
+CREATE A WORDLE CLONE WITH REACT (https://bigardone.dev/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1)
+CREATE AN IO GAME
+CREATE A BROWSER PLUGIN
+CREATE BRAIN WAVE READER PROGRAM
+REAL TIME CHAT APPLICATION (https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
+WEBSCRAPER
+MAKE A PHONE GAME
+PHYSICS SIMULATOR
+SPREADSHEET
+MAKE A TEMPORAL SEARCH ENGINE
+MAKE A LETHAL COMPANY MOD
+BUILD BROWSER ENGINE IN RUST (https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+WRITE A GIT IN PYTHON (https://wyag.thb.lt/)
+NES EMULATOR IN RUST (https://bugzmanov.github.io/nes_ebook/)
+CREATE OWN LANGUAGE
+CREATE OWN COMPILER
+CREATE GARBAGE COLLECTION
+CREATE SONG RECOMMENDER (https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
+CREATE OWN SHELL
+CREATE CMD TERMINAL
+CREATE OS
+CREATE NOSQL DATABASE FROM SCRATCH WITH API (https://betterprogramming.pub/build-a-nosql-database-from-the-scratch-in-1000-lines-of-code-8ed1c15ed924)
+CREATE PACKET SNIFFER
+
+do a project with docker??
+
+BUILD A HAM RADIO
+BUILD A BATTLEBOT
+VERILOG GAMEBOY
+DIAGNOSE AND FIX AN ELECTRONIC ITEM
+
+BACKLOG:
+BOOTSECTOR GAME (in backlog as it requires more VMs than I currently want to download)
+
+COMPLETED:
+CREATE CONWAY'S GAME OF LIFE IN C++
