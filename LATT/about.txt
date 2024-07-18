@@ -1,0 +1,3 @@
+LATT - Linguistic Analysis and Thematic Taxonomy
+
+This is a free alternative to LIWC. I am still in the progress of working on it. For now, if you need a simple POS classifier, SpaCy is a great starting point. As for thematic taxonomy, your best bet is LIWC or to stick with neural networks. Good Luck!
